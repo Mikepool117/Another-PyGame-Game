@@ -12,11 +12,6 @@ Clone the project
   git clone https://github.com/Mikepool117/Another-PyGame-Game
 ```
 
-Go to the project directory
-
-```bash
-  cd my-project
-```
 
 Install dependencies
 
